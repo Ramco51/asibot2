@@ -4,7 +4,7 @@ const ownerID ="467988314767753217";
 const client = new Discord.Client();
 const YTDL =require("ytdl-core");
 
-const TOKEN = "NTg3ODMyMTQ1MzY0Mzg1ODA1.XaJkOA.AG1ONed9OiIyGRpyJ6bSt6--yoU";
+const TOKEN = process.env.TOKEN;
 const PREFIX = "."
 const active = new Map();
 
