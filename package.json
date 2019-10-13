@@ -1,0 +1,20 @@
+{
+  "name": "squexs-bot",
+  "version": "1.0.0",
+  "description": "Squex Özel Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RamcHo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "opusscript": "0.0.6",
+    "quick.log": "^1.2.1",
+    "quick.log-discord": "^1.1.0",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^0.29.2"
+  },
+  "devDependencies": {}
+}
